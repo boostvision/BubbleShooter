@@ -1,5 +1,4 @@
-Introduction
-Hello! Welcome to the BoostVision Privacy Policy. This policy describes how BoostVision  and, its other group companies (collectively described as “BoostVision”, “we”, “us” or “our”) and its third party marketing and advertising partners collect, use, process and share information about you.
+Welcome to the BoostVision Privacy Policy. This policy describes how BoostVision  and, its other group companies (collectively described as “BoostVision”, “we”, “us” or “our”) and its third party marketing and advertising partners collect, use, process and share information about you.
 This Privacy Policy applies to BoostVision's games, websites and related services, which we here collectively call the “Services”. We reserve the right to change this policy from time to time, so be sure to check it periodically. Your continued use of the Services after the effective date will be subject to the new Privacy Policy.
 By downloading, accessing and/or playing our games, or interacting with our websites or other Services, you agree to the collection and use of your data in accordance with this Privacy Policy.
 
@@ -7,31 +6,31 @@ THE DATA WE MAY COLLECT
 The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use.
 Most of the data that we collect about you comes directly from you when you play our games, or interact with our websites, advertising or other Services.
 The data we collect may include:
-data that you provide us with when you fill in forms, answer questions or complete surveys when using any our Services, when you create an account with us or if you invite your friends to us our game and Services;
-your messages to our Services (such as emails and chat logs using our messaging systems);
-data about your account and game progress include how you play our games and interact with our Services (such as which of our games you are playing, the game versions, your progress through the games, session time and duration, number of attempts at each level and purchase made);
-your device identifiers (such as advertising ID);
-data about your device, such as device name and operating system, network state, browser type and language;
-data we collect via cookies and other similar technologies, as explained further below;
+ * data that you provide us with when you fill in forms, answer questions or complete surveys when using any our Services, when you create an account with us or if you invite your friends to us our game and Services;
+ * your messages to our Services (such as emails and chat logs using our messaging systems);
+ * data about your account and game progress include how you play our games and interact with our Services (such as which of our games you are playing, the game versions, your progress through the games, session time and duration, number of attempts at each level and purchase made);
+ * your device identifiers (such as advertising ID);
+ * data about your device, such as device name and operating system, network state, browser type and language;
+ * data we collect via cookies and other similar technologies, as explained further below;
 BoostVision-specific ID for you when you use the Services;
-data we receive from third party tool if you link a third party tool with the Services (such as Facebook, WeChat or Google);
-data we collect about you from other third party companies who have obtained your consent or have another legal right to share such data with us;
-data for advertising and analytics purposes, so we can provide you a better Service; and
+ * data we receive from third party tool if you link a third party tool with the Services (such as Facebook, WeChat or Google);
+ * data we collect about you from other third party companies who have obtained your consent or have another legal right to share such data with us;
+ * data for advertising and analytics purposes, so we can provide you a better Service; and
 other data you choose to give us.
 We may from time to time ask you for your consent to collect other information from you or your device. For instance, we may invite you to allow us to access your contacts to enable us to invite them to play our games with you, if you choose not to allow us to collect these data, we will not collect the data. If we do this or something similar, we will tell you what data we would like to collect, why we need it and what we’ll use it for.
 By downloading, accessing and/or playing our games or using our other Services, you consent to the collection of information about you by us.
 
 USE OF THE DATA
 We use this data to provide our games and Services to you, including for the following purposes:
-to create accounts and allow you play our games and use our Services;
-to analyze and optimize;
-to prevent fraud;
-to customize in-game offers;
-to provide social features;
-to provide customized services, for example to provide our Services in the correct language;
-to respond to your comments and questions;
-to verify your purchases; and
-to show personalized advertisements;
+ * to create accounts and allow you play our games and use our Services;
+ * to analyze and optimize;
+ * to prevent fraud;
+ * to customize in-game offers;
+ * to provide social features;
+ * to provide customized services, for example to provide our Services in the correct language;
+ * to respond to your comments and questions;
+ * to verify your purchases; and
+ * to show personalized advertisements;
 We may also use data for the other purposes set out in this Privacy Policy, including for Advertising purposes. We also analyze and use the data that we collect on an anonymized or aggregated basis for product development, to analyze the performance of our games, to troubleshoot and to improve and optimize the games to ensure the best player experience for our players as a whole.
 A more detailed description of some of the ways that we use your information is set out below and in the other sections of this Privacy Policy.
 
